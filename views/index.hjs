@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../node_modules/static-favicon/favicon.ico">
+
+    <title>Guitar Starter - Home</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/stylesheets/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="/stylesheets/index.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="masthead">
+        <header class="page-header"><img class="img-responsive col-sm-offset-3 col-md-offset-3" alt="logo" src="/images/guitarsitelogo.png" align="center"></header>
+        <ul class="nav nav-justified">
+          <li><a href="/">HOME</a></li>
+          <li><a href="/guitars">GUITARS</a></li>
+          <li><a href="/pedals">PEDALS</a></li>
+          <li><a href="/amps">AMPS</a></li>
+          <li><a href="/gear">GEAR</a></li>
+        </ul>
+      </div>
+
+      <!-- Jumbotron -->
+      <div class="jumbotron row">
+        <h1>The ultimate website for guitarists looking to start buying gear!</h1>
+        <p class="lead text-justify">A helpful website created just for new guitarists -- young and old -- looking to purchase their first guitar, effects pedal, amplifier, or other gear that all guitarists want and need as they get better and better at playing the soulful instrument that is the guitar.</p>
+        <!--<p><a class="btn btn-lg btn-success" href="/guitars" role="button">Learn What to Buy</a></p>-->
+        <br>
+        <br>
+        <br>
+        <div class="row">
+          <div class="col-sm-3 col-md-3">
+          </div>
+          <blockquote class="col-sm-6 col-md-6">
+            <p class="text-warning text-justify">A guitar is a very personal extension of the person playing it. You have to be emotionally and spiritually connected to your instrument.</p>
+            <footer class="text-right"><cite title="Source Title">Eddie Van Halen</cite></footer>
+          </blockquote>
+          <div class="col-sm-3 col-md-3">
+          </div>
+        </div>
+      </div>
+
+      <!-- Example row of columns -->
+      <div class="row well">
+        <div class="col-lg-4">
+          <h2>Buying your first guitar</h2>
+          <p class="text-justify">Many beginners buy the first guitar that they think looks cool without knowing much about how it plays, so they end up with a guitar which does not sound great and doesn't play as comfortably as other awesome axes.</p>
+          <p class="text-justify">Learn what to look for when buying your first guitar so that you can make the most informed decision and spend money on a guitar you are really happy with which keeps you playing for years!</p>
+          <p><a class="btn btn-primary" href="/guitars" role="button">Learn About Guitars &raquo;</a></p>
+        </div>
+        <div class="col-lg-4">
+          <h2>Buying your first effects</h2>
+          <p class="text-justify">Every guitarist gets a creative sense as they improve their guitar playing and want to mimic the sounds of their favorite guitarists/bands or create a sound of their own. This requires a good knowledge of different effects pedals and how they perform for different genres.</p>
+          <p class="text-justify">Learn which effects pedals offer the most bang for buck and provide a great deal of versatility for getting famous sounds from songs and for crafting your own sound.</p>
+          <p><a class="btn btn-primary" href="/pedals" role="button">Learn About Pedals &raquo;</a></p>
+       </div>
+        <div class="col-lg-4">
+          <h2>Buying your first amplifier</h2>
+          <p class="text-justify">A good amplifier brings everything together. It can make your guitar and your effects sound a little better, and it can give you the sound you've always wanted; however, not all amplifiers are good.</p>
+          <p class="text-justify">Learn about what makes a good amplifier and what type of amplifier would be best suited for the sound that you are looking to achieve.</p>
+          <p><a class="btn btn-primary" href="/amps" role="button">Learn About Amps &raquo;</a></p>
+        </div>
+      </div>
+
+      <!-- Site footer -->
+      <div class="footer text-center">
+        <p>&copy; Guitar Starter 2014</p>
+      </div>
+
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/javascripts/bootstrap.min.js"></script>
+  </body>
+</html>

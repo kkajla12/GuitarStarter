@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../node_modules/static-favicon/favicon.ico">
+
+    <title>Guitar Starter - Guitars</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/stylesheets/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="/stylesheets/dashboard.css" rel="stylesheet">
+    <link href="/stylesheets/index.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="masthead">
+        <header class="page-header"><img class="img-responsive col-sm-offset-3 col-md-offset-3" alt="logo" src="/images/guitarsitelogo.png" align="center"></header>
+        <ul class="nav nav-justified">
+          <li><a href="/">HOME</a></li>
+          <li><a href="/guitars">GUITARS</a></li>
+          <li><a href="/pedals">PEDALS</a></li>
+          <li><a href="/amps">AMPS</a></li>
+          <li><a href="/gear">GEAR</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-xs-6 col-sm-2 sidebar">
+          <ul class="nav nav-sidebar">
+            <li class="text-center"><a href="#overview">Overview</a></li>
+            <li class="text-center"><a href="#guide">Guide</a></li>
+            <li class="text-center"><a href="#recommendations">Recommendations</a></li>
+            <li class="text-center"><a href="#future">Future</a></li>
+          </ul>
+        </div>
+        <div class="col-sm-10 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+          <h1 class="page-header">AMPS</h1>
+
+          <div class="row placeholder" id="overview">
+            <p class="lead text-justify well">Finding a good guitar that you enjoy playing is the best place to start when you are beginning to learn guitar. Having a comfortable guitar that sounds great will not only help you get started, but will also keep you playing -- even through rough stages when it becomes harder to keep improving your playing. A great guitar can inspire any guitarist, but it takes some time and effort to find the right guitar. This guide will show you what to look for when buying your first guitar and give some recommendations for great beginner guitars for all genres of music.</p>
+          </div>
+
+          <h2 id="guide">Guide</h2>
+          <div class="section">
+            <h3>Wood</h3>
+              <p class="text-justify well">When looking for the right guitar, the wood of the guitar plays a crucial role in the quality and sound of the guitar. Certain woods are considered cheaper woods and typically point towards cheaply made guitars which should be avoided.</p>
+          </div>
+          <div class="section">
+            <h3>Fretboard</h3>
+              <p></p>
+          </div>
+          <div class="section">
+            <h3>Pickups</h3>
+              <div class="well">
+                <p class="text-justify">There are two main types of pickups which produce vastly different sounds: the humbucker pickup and the single-coil pickup. Additionally, not all pickups are created equal. Some companies manufacture guitars with very low quality pickups which may not sound very good. When buying your first electric guitar it is important to go in knowing which type of pickups your future guitar should have and how to discern/weed-out bad pickups.</p>
+                <p class="text-justify"><strong>Humbucker</strong> pickups are the larger of the two types of pickups and they look rectangular. Most guitars will have two humbucker pickups installed. Humbuckers are known to produce a ________ sound.</p>
+                <p class="text-justify"><strong>Single-coil</strong> pickups are the second type of pickups which are typically thinner in shape. Most guitars will have three single-coil pickups installed. Single-coil pickups are known to produce a warmer and wider-ranging tone. They are best suited for playing nice clean sounds in all genres of music and offer a greater amount of versatility than most humbucker pickups will. However, they are not as well suited for playing heavier distorted tones usually found in the hard-rock and metal genres.</p>
+              </div>
+          </div>
+          <div class="section">
+            <h3>Comfort</h3>
+              <div class="well">
+                <p class="text-justify">Finally, one of the most important aspects of buying a great guitar that you will enjoy is making sure that the guitar is one that you feel extremely comfortable playing. Movement on the fretboard and picking hand positioning should feel relaxed and natural, the guitar should hang easily/equally when you are standing to play, and the guitar should feel very easy to play. This implies several things that have to do with the guitar and other factors:
+                  <ul>
+                    <li>The string action should be just right so that you do not feel that you have to press down exceptionally hard to produce a note and so that there is no fret-buzz produce when playing notes.</li>
+                    <li>The bridge (in the case of a floating bridge) should be just right so that your picking hand is comfortable when you rest it on the bridge to play and so that the guitar stays in tune.</li>
+                    <li>You should have your favorite brand of string, which you find most comfortable to play, installed on the guitar</li>
+                  </ul>
+                </p>
+              </div>
+          </div>
+          <h2 id="recommendations">Recommendations</h2>
+          <div class="section">
+            <h3>Acoustic</h3>
+              <p></p>
+          </div>
+          <div class="section">
+            <h3>Alternative/Rock</h3>
+              <p></p>
+          </div>
+          <div class="section">
+            <h3>Metal</h3>
+              <p></p>
+          </div>
+          <div class="section">
+            <h3>Variety</h3>
+              <p></p>
+          </div>
+
+          <h2 id="future">Future</h2>
+          <div class="row placeholder">
+            <p></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer text-center">
+      <p>&copy; Guitar Starter 2014</p>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <script src="../../assets/js/docs.min.js"></script>
+  </body>
+</html>
