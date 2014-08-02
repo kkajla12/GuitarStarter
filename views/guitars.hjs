@@ -58,18 +58,39 @@
           <h2 id="guide">Guide</h2>
           <div class="section">
             <h3>Wood</h3>
-              <p class="text-justify well">When looking for the right guitar, the wood of the guitar plays a crucial role in the quality and sound of the guitar. Certain woods are considered cheaper woods and typically point towards cheaply made guitars which should be avoided.</p>
+              <div class="well">
+                <p class="text-justify">When looking for the right guitar, the wood of the guitar plays a crucial role in the quality and sound of the guitar. Certain woods are considered cheaper woods and typically point towards cheaply made guitars which should be avoided. Additionally, different woods give guitars different tones, each suited to its own style/genre of music. Some woods are harder than others, so they are more durable and provide brighter tones with longer sustain. Some woods are lighter and have more visible grain lines so are better suited to certain finishes than darker, fine-grain woods. Although some of these characteristics of wood are not as important as others, it is good to know them when looking to buy a guitar.</p>
+                <p class="text-justify"><strong>Alder</strong> is a lightweight wood that provides wonderful clean tones, which is why it is often used for Fender Stratocasters.</p>
+                <p class="text-justify"><strong>Ash</strong> is versatile wood that comes in hard and soft forms which provide their own distinct qualities. <strong>Hard Ash</strong> provides a much brighter tone and greater sustain because it is so hard. On the other hand, <strong>Soft Ash</strong> provides a much warmer sound better suited to rock and roll.</p>
+                <p class="text-justify"><strong>Mahogany</strong> is a medium weight wood that provides a warmer tone and great sustain. Mahogany's tone is softer than other warmer sounding woods and is often used in popular Les Paul model guitars.</p>
+                <p class="text-justify"><strong>Walnut</strong> is a medium/light wood so it has much warmer tones, but does not provide the amount of sustain that heavier woods provide, although its sustain is good enough. </p>
+                <p class="text-justify"><strong>Basswood</strong></p>
+              </div>
+          </div>
+          <div class="section">
+            <h3>Neck</h3>
+            <div class="well">
+              <p class="text-justify">A guitar's neck can dramatically influence its sound. This is mainly due to (1) the type of wood used for the neck and (2) the way the neck is connected to the body. These two characteristics effect the type of sound produced by the guitar and the amount of sustain of the guitar. The neck is typically connected to the guitar in one of three ways which will be discussed below.</p>
+              <p class="text-justify"><strong>Bolt-On</strong> neck contruction means that the neck has been mounted to the body using a screw plate and several wood screws. This is the most common method of neck fixture so it is found on most beginner level guitars. It is ok for a cheaper guitar to have a bolt-on neck, but more expensive guitars should almost never have one because it provides mostly disadvantages to the overall sound of a guitar, such as reduced sustain, tonal clarity, and durability.</p>
+              <p class="text-justify"><strong>Set-In</strong> neck construction is when the neck is joined to the body using an extra joint and an adhesive. This type of neck construction is typically considered better than the bolt-on neck construction because it provides better tonal clarity. However, this type of neck construction is more vulnerable to neck breakage as the glue used to the join the neck is not as strong as the screws used in a bolt-on.</p>
+              <p class="text-justify"></p>
+            </div>
           </div>
           <div class="section">
             <h3>Fretboard</h3>
-              <p></p>
+              <div class="well">
+                <p class="text-justify">The fretboard is one of the most important aspects of finding the perfect guitar. After all, one of your hands will spend all of its time on the fretboard as you play. The right fretboard will be comfortable, quick/smooth, and durable. Fretboards, just like the body of the guitar, can come in different types of wood which, once again, provide their own musical qualities. Certain woods will provide better tones, while others will provide smoother and quicker movement vertically and horizontally.</p>
+                <p class="text-justify"><strong>Maple</strong> is very popular for fretboards on many guitars because it is dense and provides nice bright tones. A maple fretboard allows for a wonderful and tight high end with great sustain, while having a lesser low end.</p>
+                <p class="text-justify"><strong>Rosewood</strong> is the most common wood for fretboards so it is found on most introductory guitars. Rosewood provides a warmer tone, but unlike maple, the high end sounds are less than stellar. However, rosewood fretboards are very smooth and perfect for faster playing as they allow you to easily and quickly move from end to end.</p>
+                <p class="text-justify"><strong>Ebony</strong> is a heavy wood so it has a very bright and percussive sound with great sustain. Additionally, since it is a heavier wood it is much more durable compared to lighter fretboard woods like rosewood. Ebony fretboards are also very smooth and allow for fast playing. They are often an upgrade from rosewood fretboards so are typically featured in intermediate to advanced level guitars.</p>
+              </div>
           </div>
           <div class="section">
             <h3>Pickups</h3>
               <div class="well">
                 <p class="text-justify">There are two main types of pickups which produce vastly different sounds: the humbucker pickup and the single-coil pickup. Additionally, not all pickups are created equal. Some companies manufacture guitars with very low quality pickups which may not sound very good. When buying your first electric guitar it is important to go in knowing which type of pickups your future guitar should have and how to discern/weed-out bad pickups.</p>
-                <p class="text-justify"><strong>Humbucker</strong> pickups are the larger of the two types of pickups and they look rectangular. Most guitars will have two humbucker pickups installed. Humbuckers are known to produce a ________ sound.</p>
-                <p class="text-justify"><strong>Single-coil</strong> pickups are the second type of pickups which are typically thinner in shape. Most guitars will have three single-coil pickups installed. Single-coil pickups are known to produce a warmer and wider-ranging tone. They are best suited for playing nice clean sounds in all genres of music and offer a greater amount of versatility than most humbucker pickups will. However, they are not as well suited for playing heavier distorted tones usually found in the hard-rock and metal genres.</p>
+                <p class="text-justify"><strong>Humbucker</strong> pickups are the larger of the two types of pickups and they look rectangular. Most guitars will have two humbucker pickups installed. Humbuckers are known to produce a warmer tone which is better suited for the rock 'n roll and heavy metal genres.</p>
+                <p class="text-justify"><strong>Single-coil</strong> pickups are the second type of pickups which are typically thinner in shape. Most guitars will have three single-coil pickups installed. Single-coil pickups are known to produce a brighter and wider-ranging tone. They are best suited for playing nice clean sounds in all genres of music and offer a greater amount of versatility than most humbucker pickups will. However, they are not as well suited for playing heavier distorted tones usually found in the hard-rock and metal genres.</p>
               </div>
           </div>
           <div class="section">
