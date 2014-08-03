@@ -59,12 +59,12 @@
           <div class="section">
             <h3>Wood</h3>
               <div class="well">
-                <p class="text-justify">When looking for the right guitar, the wood of the guitar plays a crucial role in the quality and sound of the guitar. Certain woods are considered cheaper woods and typically point towards cheaply made guitars which should be avoided. Additionally, different woods give guitars different tones, each suited to its own style/genre of music. Some woods are harder than others, so they are more durable and provide brighter tones with longer sustain. Some woods are lighter and have more visible grain lines so are better suited to certain finishes than darker, fine-grain woods. Although some of these characteristics of wood are not as important as others, it is good to know them when looking to buy a guitar.</p>
+                <p class="text-justify">When looking for the right guitar, the wood of the guitar plays a crucial role in the quality and sound of the guitar. Certain woods are considered cheaper woods and typically point towards cheaply made guitars which should be avoided. Additionally, different woods give guitars different tones, each suited to its own style/genre of music. Some woods are harder than others, so they are more durable and provide brighter tones with longer sustain. Some woods are lighter and have more visible grain lines so are better suited to certain finishes than darker, fine-grain woods. Although some of these characteristics of wood are not as important as others, they are all good to know about when looking to buy a guitar.</p>
                 <p class="text-justify"><strong>Alder</strong> is a lightweight wood that provides wonderful clean tones, which is why it is often used for Fender Stratocasters.</p>
                 <p class="text-justify"><strong>Ash</strong> is versatile wood that comes in hard and soft forms which provide their own distinct qualities. <strong>Hard Ash</strong> provides a much brighter tone and greater sustain because it is so hard. On the other hand, <strong>Soft Ash</strong> provides a much warmer sound better suited to rock and roll.</p>
                 <p class="text-justify"><strong>Mahogany</strong> is a medium weight wood that provides a warmer tone and great sustain. Mahogany's tone is softer than other warmer sounding woods and is often used in popular Les Paul model guitars.</p>
                 <p class="text-justify"><strong>Walnut</strong> is a medium/light wood so it has much warmer tones, but does not provide the amount of sustain that heavier woods provide, although its sustain is good enough. </p>
-                <p class="text-justify"><strong>Basswood</strong></p>
+                <p class="text-justify"><strong>Basswood</strong> is a very light and soft wood so it gives a nice warm tone, but is not very durable because it is so soft.</p>
               </div>
           </div>
           <div class="section">
@@ -72,8 +72,8 @@
             <div class="well">
               <p class="text-justify">A guitar's neck can dramatically influence its sound. This is mainly due to (1) the type of wood used for the neck and (2) the way the neck is connected to the body. These two characteristics effect the type of sound produced by the guitar and the amount of sustain of the guitar. The neck is typically connected to the guitar in one of three ways which will be discussed below.</p>
               <p class="text-justify"><strong>Bolt-On</strong> neck contruction means that the neck has been mounted to the body using a screw plate and several wood screws. This is the most common method of neck fixture so it is found on most beginner level guitars. It is ok for a cheaper guitar to have a bolt-on neck, but more expensive guitars should almost never have one because it provides mostly disadvantages to the overall sound of a guitar, such as reduced sustain, tonal clarity, and durability.</p>
-              <p class="text-justify"><strong>Set-In</strong> neck construction is when the neck is joined to the body using an extra joint and an adhesive. This type of neck construction is typically considered better than the bolt-on neck construction because it provides better tonal clarity. However, this type of neck construction is more vulnerable to neck breakage as the glue used to the join the neck is not as strong as the screws used in a bolt-on.</p>
-              <p class="text-justify"></p>
+              <p class="text-justify"><strong>Set-In</strong> neck construction is when the neck is joined to the body using an extra joint and an adhesive. This type of neck construction is typically considered better than the bolt-on neck construction because it provides better tonal clarity. However, this type of neck construction is more vulnerable to neck breakage as the glue used to the join the neck and body is not as strong as the screws used in a bolt-on necks.</p>
+              <p class="text-justify"><strong>Neck-Through (thru)</strong> construction is when the wood used for the neck is extended through into the body of the guitar. The pieces are glued together, and the electronics and bridge of the guitar are then mounted on this extended piece of wood. This form of neck construction is most expensive to produce so you should expect to find it on most higher end guitars. Neck-Through construction provides considerably more sustain and keep your guitar in tune for longer periods of time.</p>
             </div>
           </div>
           <div class="section">
@@ -91,6 +91,8 @@
                 <p class="text-justify">There are two main types of pickups which produce vastly different sounds: the humbucker pickup and the single-coil pickup. Additionally, not all pickups are created equal. Some companies manufacture guitars with very low quality pickups which may not sound very good. When buying your first electric guitar it is important to go in knowing which type of pickups your future guitar should have and how to discern/weed-out bad pickups.</p>
                 <p class="text-justify"><strong>Humbucker</strong> pickups are the larger of the two types of pickups and they look rectangular. Most guitars will have two humbucker pickups installed. Humbuckers are known to produce a warmer tone which is better suited for the rock 'n roll and heavy metal genres.</p>
                 <p class="text-justify"><strong>Single-coil</strong> pickups are the second type of pickups which are typically thinner in shape. Most guitars will have three single-coil pickups installed. Single-coil pickups are known to produce a brighter and wider-ranging tone. They are best suited for playing nice clean sounds in all genres of music and offer a greater amount of versatility than most humbucker pickups will. However, they are not as well suited for playing heavier distorted tones usually found in the hard-rock and metal genres.</p>
+                <p class="text-justify"><strong>Active</strong> pickups </p>
+                <p class="text-justify"><strong>Passive</strong> pickups </p>
               </div>
           </div>
           <div class="section">
@@ -106,27 +108,73 @@
               </div>
           </div>
           <h2 id="recommendations">Recommendations</h2>
+          <div class="well">
+            <p class="text-justify">These are some recommended guitars suited to each major genre of music. The recommendations are various (but not exhaustive), and range from guitars for beginner to advanced guitarists, including some of the most popular guitars in the music industry, many of which are models used by some of the most famous guitarists of all time! The recommended guitars are categorized by genre because, chances are, your favorite style of music will sound best being played through a guitar best suited for that genre. However, some of the guitars in one category may also work well for playing other genres of music; that is just a testament to the quality and versatility of the guitar (like a Fender Stratocaster or a Gibson Les Paul), which is why certain guitars are more popular with guitarists for their versatility to allow them to produce a variety of sounds.</p>
+          </div>
           <div class="section">
             <h3>Acoustic</h3>
-              <p></p>
+              <div class="well text-center">
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002F7IV2&asins=B0002F7IV2&linkId=PRJYPOK5UJCNEORP&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002GXZK4&asins=B0002GXZK4&linkId=DUZUEBIJERRFRONN&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0071NO7I0&asins=B0071NO7I0&linkId=3F5RCQERYT3X42VV&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B000FIZISQ&asins=B000FIZISQ&linkId=K6VQO2L7D6JCXVUA&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B00LVA0WFG&asins=B00LVA0WFG&linkId=CTIU6CTGRC4VZDEQ&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002F6PKW&asins=B0002F6PKW&linkId=SRTJA7LGPQ6ZJGTE&show_border=true&link_opens_in_new_window=true">
+</iframe>
+              </div>
           </div>
           <div class="section">
             <h3>Alternative/Rock</h3>
-              <p></p>
+              <div class="well text-center">
+                <!--<h4><a href="http://www.amazon.com/gp/product/B0002CZUUG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0002CZUUG&linkCode=as2&tag=guitstar-20&linkId=M3TWESPI6EHQC76C">Epiphone Les Paul Special II</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=guitstar-20&l=as2&o=1&a=B0002CZUUG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></h4>
+                <a href="http://www.amazon.com/gp/product/B0002CZUUG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0002CZUUG&linkCode=as2&tag=guitstar-20&linkId=WCA6WGJEAJHVIY2H"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0002CZUUG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=guitstar-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=guitstar-20&l=as2&o=1&a=B0002CZUUG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />-->
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B001L8NFZW&asins=B001L8NFZW&linkId=AKGI3SPXHT4HZDRS&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002CZUUG&asins=B0002CZUUG&linkId=W6A2JF2JM4DCF7NY&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002CZURO&asins=B0002CZURO&linkId=BHMSXDP6JWI4K3IT&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B005N274NG&asins=B005N274NG&linkId=AZJ2XMB63SA7CCMC&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B001L8NGTC&asins=B001L8NGTC&linkId=DHUZX5IR2TNTJRTJ&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B00GWH0OUQ&asins=B00GWH0OUQ&linkId=NPHQD5ULWLAOOQXE&show_border=true&link_opens_in_new_window=true">
+</iframe>
+              </div>
           </div>
           <div class="section">
             <h3>Metal</h3>
-              <p></p>
+              <div class="well text-center">
+                <iframe style="width:140px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B000T9JS7S&asins=B000T9JS7S&linkId=DTACWW7ROFDD67ZD&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B001A5GSDC&asins=B001A5GSDC&linkId=JBJ6YIO2JIKUWTFL&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B00B7AJZL2&asins=B00B7AJZL2&linkId=HHTM62ZIBYZ2ESBX&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B004XUOKDQ&asins=B004XUOKDQ&linkId=VK6RSWOGXIZZR5SJ&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B000R0ARQU&asins=B000R0ARQU&linkId=3CLDT3RHQ5OFWRUS&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:140px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B009OA7V54&asins=B009OA7V54&linkId=X2X3IXNPKY3BBK56&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:140px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B001MWD2SM&asins=B001MWD2SM&linkId=BKOGK5O3YBIGKLON&show_border=true&link_opens_in_new_window=true">
+</iframe>
+              </div>
           </div>
-          <div class="section">
+          <!--<div class="section">
             <h3>Variety</h3>
               <p></p>
-          </div>
+          </div>-->
 
-          <h2 id="future">Future</h2>
+          <!--<h2 id="future">Future</h2>
           <div class="row placeholder">
             <p></p>
-          </div>
+          </div>-->
         </div>
       </div>
     </div>
