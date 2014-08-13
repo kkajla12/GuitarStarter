@@ -27,11 +27,13 @@
   <body>
     <div class="container">
       <div class="masthead">
-        <header class="page-header"><img class="img-responsive col-sm-offset-3 col-md-offset-3" alt="logo" src="/images/guitarsitelogo.png" align="center"></header>
+        <div class="row">
+<header class="page-header"><img class="img-responsive col-xs-offset-1 col-sm-offset-2 col-md-offset-3 col-xs-10 col-sm-8 col-md-6" alt="logo" src="/images/guitarsitelogo.png" align="center"></header>        </div>
+        <br>
         <ul class="nav nav-justified">
           <li><a href="/">HOME</a></li>
           <li><a href="/guitars">GUITARS</a></li>
-          <li><a href="/pedals">PEDALS</a></li>
+          <li><a href="/pedals">EFFECTS</a></li>
           <li><a href="/amps">AMPS</a></li>
           <li><a href="/gear">GEAR</a></li>
         </ul>
@@ -39,23 +41,23 @@
     </div>
 
     <div class="container-fluid">
-      <div class="row">
-        <div class="col-xs-6 col-sm-2 sidebar hidden-sm hidden-xs">
+      <!--<div class="row">-->
+        <!--<div class="col-xs-6 col-sm-2 sidebar hidden-sm hidden-xs">
           <ul class="nav nav-sidebar">
             <li class="text-center"><a href="#overview">Overview</a></li>
             <li class="text-center"><a href="#guide">Guide</a></li>
             <li class="text-center"><a href="#recommendations">Recommendations</a></li>
-            <!--<li class="text-center"><a href="#future">Future</a></li>-->
+            <li class="text-center"><a href="#future">Future</a></li>
           </ul>
-        </div>
-        <div class="col-sm-10 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+        </div>-->
+        <div class="main">
           <h1 class="page-header">GUITARS</h1>
 
-          <div class="row placeholder" id="overview">
+          <div id="overview">
             <p class="lead text-justify well">Finding a good guitar that you enjoy playing is the best place to start when you are beginning to learn guitar. Having a comfortable guitar that sounds great will not only help you get started, but will also keep you playing -- even through rough stages when it becomes harder to keep improving your playing. A great guitar can inspire any guitarist, but it takes some time and effort to find the right guitar. This guide will show you what to look for when buying your first guitar and give some recommendations for great beginner guitars for all genres of music.</p>
           </div>
 
-          <h2 id="guide">Guide</h2>
+          <h2 class="guide">Guide</h2>
           <div class="section">
             <h3>Wood</h3>
               <div class="well">
@@ -92,18 +94,12 @@
                 <p class="text-justify"><strong>Humbucker</strong> pickups are the larger of the two types of pickups, and they either look rectangular or like two single-coil pickups joined together. Most guitars with humbuckers will have two humbucker pickups installed. Humbuckers produce a warmer and thicker tone which is better suited for the rock 'n roll and heavy metal genres because it is fuller sounding when coupled with lots of distortion.</p>
                 <br>
                 <div class="row">
-                  <div class="col-md-3 col-sm-3 col-sm-offset-2 col-md-offset-2">
-                    <img class="img-responsive" src="/images/open-humbucker.jpg" alt="open-humbucker">
-                  </div>
-                  <div class="col-md-3 col-sm-3 col-sm-offset-2 col-md-offset-2">
-                    <img class="img-responsive" src="/images/closed-humbuckers.png" alt="closed-humbucker">
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-md-3 col-sm-3 col-sm-offset-2 col-md-offset-2 text-center" style="font-size:10px">
+                  <div class="col-md-3 col-sm-3 col-xs-3 col-sm-offset-2 col-md-offset-2 col-xs-offset-2 text-center" min-width=40%>
+                    <img class="img-responsive img-rounded" src="/images/open-humbucker.jpg" alt="open-humbucker">
                     An open humbucker pickup
                   </div>
-                  <div class="col-md-3 col-sm-3 col-sm-offset-2 col-md-offset-2 text-center" style="font-size:10px">
+                  <div class="col-md-3 col-sm-3 col-xs-3 col-sm-offset-2 col-md-offset-2 col-xs-offset-2 text-center">
+                    <img class="img-responsive img-rounded" src="/images/closed-humbuckers.png" alt="closed-humbucker" min-width=40%>
                     Two closed humbucker pickups
                   </div>
                 </div>
@@ -111,15 +107,16 @@
                 <p class="text-justify"><strong>Single-coil</strong> pickups are the second type of pickups which are typically thinner in shape. Most guitars will have three single-coil pickups installed. Single-coil pickups are known to produce a brighter and wider-ranging tone. They are better suited for playing nice clean sounds in all genres of music (moreso than humbuckers) and offer a greater amount of versatility than most humbucker pickups will. However, they are not as well suited for playing heavier distorted tones usually found in the hard-rock and metal genres.</p>
                 <br>
                 <div class="row">
-                  <div class="col-md-3 col-sm-3 col-sm-offset-5 col-md-offset-5">
-                    <img class="img-responsive" src="/images/single-coils.jpg" alt="single-coils" height="200" width="200">
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-md-4 col-sm-4 col-sm-offset-4 col-md-offset-4 text-center" style="font-size:10px">
+                  <div class="col-md-3 col-sm-3 col-xs-3 col-sm-offset-5 col-md-offset-5 col-xs-offset-5 text-center">
+                    <img class="img-responsive img-rounded" src="/images/single-coils.jpg" alt="single-coils" height="200" width="200">
                     Two single coil pickups
                   </div>
                 </div>
+                <!--<div class="row">
+                  <div class="col-md-4 col-sm-4 col-sm-offset-4 col-md-offset-4 text-center" style="font-size:10px">
+                    Two single coil pickups
+                  </div>
+                </div>-->
                 <br>
                 <p class="text-justify"><strong>Passive</strong> pickups are regular magnetic pickups which directly send the captured signal from the strings to the amplifier. This simpler design produces a more natural and wide-ranging sound. As a result, passive pickups will provide more control over tone and greater versatility in terms of sound production. These are the pickups to choose for a varying sound and tonal experimentation.</p>
                 <p class="text-justify"><strong>Active</strong> pickups are high output pickups powered by extra batteries which produce a well-balanced and consistent tone. This is possible because the active pickups possess extra preamps and tone equalizers which shape the signal coming from the strings before it reaches the amplifier. This allows for clearer and tighter tones to be produced, even when heavy distortion is applied. As a result, active pickups are often used by heavy metal guitarists because they maintain a tight and consistent tone through lots of distortion, while maintaining the quality of sound. The downside is that these pickups require extra batteries for operation and are often thought to be more limited in their tonal capabilities and versatility. They are well suited for someone who has established their sound.</p>
@@ -130,14 +127,14 @@
               <div class="well">
                 <p class="text-justify">Finally, one of the most important aspects of buying a great guitar that you will enjoy is making sure that the guitar is one that you feel extremely comfortable playing. Movement on the fretboard and picking hand positioning should feel relaxed and natural, the guitar should hang easily/equally when you are standing to play, and the guitar should feel very easy to play. This implies several things that have to do with the guitar and other factors:
                   <ul>
-                    <li>The string action -- which is the distance of the strings from the fretboard -- should be just right so that you do not feel that you have to press down exceptionally hard to produce a note and so that there is no fret-buzz produce when playing notes.</li>
+                    <li>The string action -- which is the distance of the strings from the fretboard -- should be just right so that you do not feel that you have to press down exceptionally hard to produce a note and so that there is no fret-buzz produced when playing notes.</li>
                     <li>The bridge (in the case of a floating bridge) should be well-balanced so that your picking hand is comfortable when you rest it on the bridge to play and so that the guitar stays in tune through playing and even excessive whammy bar usage.</li>
                     <li>You should have your favorite brand of string, which you find most comfortable to play, installed on the guitar. This can often be the small change you need to make to a guitar in order to make it considerably more comfortable to play.</li>
                   </ul>
                 </p>
               </div>
           </div>
-          <h2 id="recommendations">Recommendations</h2>
+          <h2 class="recommendations">Recommendations</h2>
           <div class="well">
             <p class="text-justify">These are some recommended guitars suited to each major genre of music. The recommendations are various (but not exhaustive), and range from guitars for beginner to advanced guitarists, including some of the most popular guitars in the music industry, many of which are models used by some of the most famous guitarists of all time! The recommended guitars are categorized by genre because, chances are, your favorite style of music will sound best being played through a guitar best suited for that genre. However, some of the guitars in one category may also work well for playing other genres of music; that is just a testament to the quality and versatility of the guitar (like a Fender Stratocaster or a Gibson Les Paul), which is why certain guitars are more popular with guitarists for their versatility which allows them to produce a variety of sounds.</p>
           </div>
@@ -180,9 +177,9 @@
           <div class="section">
             <h3>Metal</h3>
               <div class="well text-center">
-                <iframe style="width:140px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B000T9JS7S&asins=B000T9JS7S&linkId=DTACWW7ROFDD67ZD&show_border=true&link_opens_in_new_window=true">
-</iframe>
                 <iframe style="width:140px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B001A5GSDC&asins=B001A5GSDC&linkId=JBJ6YIO2JIKUWTFL&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:140px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B000T9JS7S&asins=B000T9JS7S&linkId=DTACWW7ROFDD67ZD&show_border=true&link_opens_in_new_window=true">
 </iframe>
                 <iframe style="width:140px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B00B7AJZL2&asins=B00B7AJZL2&linkId=HHTM62ZIBYZ2ESBX&show_border=true&link_opens_in_new_window=true">
 </iframe>
@@ -196,28 +193,20 @@
 </iframe>
               </div>
           </div>
-          <!--<div class="section">
-            <h3>Variety</h3>
-              <p></p>
-          </div>-->
-
-          <!--<h2 id="future">Future</h2>
-          <div class="row placeholder">
-            <p></p>
-          </div>-->
         </div>
-      </div>
     </div>
 
     <div class="footer text-center">
-      <p>&copy; Guitar Starter 2014</p>
+      <p style="color:#ffffff">&copy; Guitar Starter 2014</p>
     </div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
     <script src="../../dist/js/bootstrap.min.js"></script>
     <script src="../../assets/js/docs.min.js"></script>
+    <script src="/javascripts/guitars-background.js"></script>
   </body>
 </html>

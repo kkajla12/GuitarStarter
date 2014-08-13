@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../node_modules/static-favicon/favicon.ico">
 
-    <title>Guitar Starter - Guitars</title>
+    <title>Guitar Starter - Amps</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/stylesheets/bootstrap.min.css" rel="stylesheet">
@@ -27,11 +27,13 @@
   <body>
     <div class="container">
       <div class="masthead">
-        <header class="page-header"><img class="img-responsive col-sm-offset-3 col-md-offset-3" alt="logo" src="/images/guitarsitelogo.png" align="center"></header>
+        <div class="row">
+<header class="page-header"><img class="img-responsive col-xs-offset-1 col-sm-offset-2 col-md-offset-3 col-xs-10 col-sm-8 col-md-6" alt="logo" src="/images/guitarsitelogo.png" align="center"></header>        </div>
+        <br>
         <ul class="nav nav-justified">
           <li><a href="/">HOME</a></li>
           <li><a href="/guitars">GUITARS</a></li>
-          <li><a href="/pedals">PEDALS</a></li>
+          <li><a href="/pedals">EFFECTS</a></li>
           <li><a href="/amps">AMPS</a></li>
           <li><a href="/gear">GEAR</a></li>
         </ul>
@@ -39,86 +41,94 @@
     </div>
 
     <div class="container-fluid">
-      <div class="row">
-        <div class="col-xs-6 col-sm-2 sidebar">
+      <!--<div class="row">-->
+        <!--<div class="col-xs-6 col-sm-2 sidebar hidden-sm hidden-xs">
           <ul class="nav nav-sidebar">
             <li class="text-center"><a href="#overview">Overview</a></li>
             <li class="text-center"><a href="#guide">Guide</a></li>
             <li class="text-center"><a href="#recommendations">Recommendations</a></li>
             <li class="text-center"><a href="#future">Future</a></li>
           </ul>
-        </div>
-        <div class="col-sm-10 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+        </div>-->
+        <div class="main">
           <h1 class="page-header">AMPS</h1>
 
           <div class="row placeholder" id="overview">
-            <p class="lead text-justify well">Finding a good guitar that you enjoy playing is the best place to start when you are beginning to learn guitar. Having a comfortable guitar that sounds great will not only help you get started, but will also keep you playing -- even through rough stages when it becomes harder to keep improving your playing. A great guitar can inspire any guitarist, but it takes some time and effort to find the right guitar. This guide will show you what to look for when buying your first guitar and give some recommendations for great beginner guitars for all genres of music.</p>
+            <p class="lead text-justify well">The amplifier gives life to the electric guitar. It is as integral as the guitar in a guitarist's arsenal of equipment for this very reason. A great amplifier can complement a great guitar in perfect harmony to produce a wonderful tone. However, a weaker amplifier can detract from what a tremendous guitar is able to do. This guide will explain what to look for in an amplifier which will nicely complement a great guitar and suit each genre of music.</p>
           </div>
 
-          <h2 id="guide">Guide</h2>
+          <h2 class="guide">Guide</h2>
           <div class="section">
-            <h3>Wood</h3>
-              <p class="text-justify well">When looking for the right guitar, the wood of the guitar plays a crucial role in the quality and sound of the guitar. Certain woods are considered cheaper woods and typically point towards cheaply made guitars which should be avoided.</p>
-          </div>
-          <div class="section">
-            <h3>Fretboard</h3>
-              <p></p>
-          </div>
-          <div class="section">
-            <h3>Pickups</h3>
+            <h3>Types</h3>
               <div class="well">
-                <p class="text-justify">There are two main types of pickups which produce vastly different sounds: the humbucker pickup and the single-coil pickup. Additionally, not all pickups are created equal. Some companies manufacture guitars with very low quality pickups which may not sound very good. When buying your first electric guitar it is important to go in knowing which type of pickups your future guitar should have and how to discern/weed-out bad pickups.</p>
-                <p class="text-justify"><strong>Humbucker</strong> pickups are the larger of the two types of pickups and they look rectangular. Most guitars will have two humbucker pickups installed. Humbuckers are known to produce a ________ sound.</p>
-                <p class="text-justify"><strong>Single-coil</strong> pickups are the second type of pickups which are typically thinner in shape. Most guitars will have three single-coil pickups installed. Single-coil pickups are known to produce a warmer and wider-ranging tone. They are best suited for playing nice clean sounds in all genres of music and offer a greater amount of versatility than most humbucker pickups will. However, they are not as well suited for playing heavier distorted tones usually found in the hard-rock and metal genres.</p>
+                <p class="text-justify">There are four distinct types of amplifiers to choose from, each of which bring their own characteristics and have their best uses. There are endless configurations of each type for a guitarist to choose from, but choosing the type of amplifier technology a guitarist needs is integral to developing a unique tone. Some types of amplfiers offer a warmer, more fluid, tone while others offer a louder, more consistent, tone. Certain types of amps are also cheaper and better suited for practice jamming, while others are much more expensive and necessary for playing in large venues to live audiences. These are just a few considerations a guitarist must make when considering buying a new amplifier, and the following will be helpful characteristics of to know when judging each type of amplifier.</p>
+                <p class="text-justify"><strong>Solid-State</strong> amps are analog amps because they employ transistors in their preamplifier (preamp) and power amp which conform or modulate the signal before sending it through for amplification. Solid-state amplifiers are low-maintenance and very sturdy, so they are ideal for touring or for a guitarist who is frequently travelling. This is also why most of the introductory and practice amplifiers are typically solid-state amps. These types of amps provide a strong low end (bass) and pack a lot of power. Most solid-states amps can produce very high volumes, but often times their quality of sound decreases as the volume is increased. This is especially true of many practice amps. Finally, solid-state amps will not heat up as much as some other amps (see below) will.</p>
+                <p class="text-justify"><strong>Tube</strong> amps produce a much warmer and thicker tone than the other types of amps because they utilize a vacuum tube (thus the name tube amp) in their preamp which gives this "fatter" tone. When this tube is driven with lots of heat and power, it distorts the original signal sent to the amplifier, which creates the overdriven (distorted) tone that tube amplifiers are famous for. This natural signal distortion and compression coming from the tube gives a natural sounding distortion and creates more sustain; however, it makes tube amps generate a lot more heat than its counterparts. Additionally, since these effects of the tube are controlled by power input, tube amps are very versatile and responsive to the guitarist's minor tone adjustments. Tube amplifiers are widely regarded as the best type of amplifier technology by the general guitar community for these reasons, although that is up to you to decide for yourself.</p>
+                <p class="text-justify"><strong>Modeling</strong> amps are the most recently developed amplifier technology (late 1990s) which use digital technology to recreate (model) the effects and preamps of many other famous amplifiers. These amps also often include several built-in digital effects in addition to their amp modeling capabilities. As a result, modeling amps are considered very flexible for producing different types of sounds ranging from all genres of music. These amplifiers are the most modern technology in guitar amplification so they also often have an interface to connect directly to a computer or recording interface, making them the easiest path to recording music. For these reasons, modeling amps are great for beginner and intermediate guitarists who are still trying to create their own sound and want to experiment with different amplification systems or effects. Even so, modeling amps often do not capture the essence of a great sound and many believe they lack soul. Since these amplifiers are typically cheaper, they are great for getting started and creating a sound, but it is usually better to evolve your sound by moving to a higher end solid-state or tube amplifier later on as tone becomes a more important factor.</p>
+                <p class="text-justify"><strong>Hybrid</strong> amps are solid-state amplifiers with vacuum tubes built-in. The tube powers the preamp for tube-amp-like tonal quality, and a transistor powers the power amp which handles sound amplification. This amp combines the best of solid-state and tube amplifiers for a cheap yet great sounding alternative for either of the other types of amps. They are lightweight and low-power -- like solid-state amps -- and produce a great tone with powerful distortion -- like tube amps; however, hybrid amplifiers are much like a "jack of all trades, master of none," because they do many things like a solid-state or tube amp, but they do not do any of those things as well as a solid-state or tube amp does. Nonetheless, they are a perfect combination of the two distinct amplifier technologies and produce lesser incarnations of their best attributes for cheap prices.</p>
+                <p class="text-justify"><u>A Final Note:</u> There is no single amplifier type among those listed above that is better than the others. The sound of an amplifier should suit and appeal to the guitarist using it. There are many low and high end amps from each of the four categories which perform well and produce great tones, but the distinction between the categories occurs based on the particular tone that a guitarist is looking for, so it's up to you to experiment and discover the right amplifier which suits you and produces the sound you are looking for.</p>
               </div>
           </div>
           <div class="section">
-            <h3>Comfort</h3>
+            <h3>Configurations</h3>
               <div class="well">
-                <p class="text-justify">Finally, one of the most important aspects of buying a great guitar that you will enjoy is making sure that the guitar is one that you feel extremely comfortable playing. Movement on the fretboard and picking hand positioning should feel relaxed and natural, the guitar should hang easily/equally when you are standing to play, and the guitar should feel very easy to play. This implies several things that have to do with the guitar and other factors:
-                  <ul>
-                    <li>The string action should be just right so that you do not feel that you have to press down exceptionally hard to produce a note and so that there is no fret-buzz produce when playing notes.</li>
-                    <li>The bridge (in the case of a floating bridge) should be just right so that your picking hand is comfortable when you rest it on the bridge to play and so that the guitar stays in tune.</li>
-                    <li>You should have your favorite brand of string, which you find most comfortable to play, installed on the guitar</li>
-                  </ul>
-                </p>
+                <p class="text-justify">An amplifier's configuration refers to how the controls and speaker are paired together. There are two main ways in which amplifiers are configured: combination and stack (created by combining a head and a cabinet). These two configurations each have their intended uses, along with their own pros and cons. We will discuss the characteristics of each configuration and when and why a guitarist would use one configuration over the other.</p>
+                <p class="text-justify">The <strong>Combo (Combination)</strong> configuration (AKA: Combo Amps) is the design in which the controls and speaker are contained within a single unit. This configuration provides much more portability and is often reserved for practice amplifiers, although larger combo amps can certainly be used for playing in smaller venues where the speaker will be able to project sound throughout the audience. Combination amplifiers are available in three typical sizes: the microamp -- a smaller practice amp which can be up to 10 watts, the general practice amp -- which can be between 10 to 30 watts, and the full-size amp -- which has various size ratings based on the size of the speaker (i.e. 1-12 for one 12-inch speaker or 2-12 for two 12-inch speakers).</p>
+                <p class="text-justify">The <strong>Head</strong> is the "brains" of the stack configuration which holds the controls for managing the sound produced by the speaker cabinet(s). The guitar is plugged directly into the head, but the head does not produce any sound on its own. Every head requires at least one speaker cabinet to amplify and produce sound. The head handles all of the sound processing before handing the signal off to the speaker cabinet to be amplified. Heads come in various sizes and wattages ranging from 50 to 400 watts.</p>
+                <p class="text-justify">The Speaker <strong>Cabinet</strong> is the "muscle" in the stack configuration and its job is to simply amplify the signal and project it outwards to the audience. The stack configuration is necessary for larger venues where a smaller combo amp will not get the job done. Typical speaker cabinets will have four 12-inch speakers (4-12) for massive volume and sound which will more than suffice for most venues unless you are a super rock star! In that case you will need many many more stacks for all your shredding glory!</p>
               </div>
           </div>
-          <h2 id="recommendations">Recommendations</h2>
-          <div class="section">
-            <h3>Acoustic</h3>
-              <p></p>
+          <h2 class="recommendations">Recommendations</h2>
+          <div class="well">
+            <p class="text-justify">These are some recommended amplifiers grouped by type. Again, the recommendations are various but not exhaustive, and they cover a large price range. A guitarist should always try out several amps before deciding on one to buy, so make sure you try out all of these recommended amps before you decide to order one. This is done best by using the same guitar to test all of the amps you have in mind so that the only variable in the setup is the amplifier. From there, choose the amplifier that sounds best to you and allows you to play your own style of music.</p>
           </div>
           <div class="section">
-            <h3>Alternative/Rock</h3>
-              <p></p>
+            <h3>Combo - Practice</h3>
+              <div class="well text-center">
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B002GYWBIM&asins=B002GYWBIM&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0043UKJ4K&asins=B0043UKJ4K&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0017L2CLG&asins=B0017L2CLG&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B006Y2FUW6&asins=B006Y2FUW6&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B000VJZOLK&asins=B000VJZOLK&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+              </div>
           </div>
           <div class="section">
-            <h3>Metal</h3>
-              <p></p>
-          </div>
-          <div class="section">
-            <h3>Variety</h3>
-              <p></p>
-          </div>
+            <h3>Combo - Gig</h3>
+              <div class="well text-center">
+                <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0030LH4R8&asins=B0030LH4R8&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
 
-          <h2 id="future">Future</h2>
-          <div class="row placeholder">
-            <p></p>
+              </div>
+          </div>
+          <div class="section">
+            <h3>Head</h3>
+              <div class="well text-center">
+              </div>
+          </div>
+          <div class="section">
+            <h3>Cabinet</h3>
+              <div class="well text-center">
+              </div>
           </div>
         </div>
-      </div>
     </div>
 
     <div class="footer text-center">
-      <p>&copy; Guitar Starter 2014</p>
+      <p style="color:#ffffff">&copy; Guitar Starter 2014</p>
     </div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
     <script src="../../dist/js/bootstrap.min.js"></script>
     <script src="../../assets/js/docs.min.js"></script>
+    <script src="/javascripts/amps-background.js"></script>
   </body>
 </html>

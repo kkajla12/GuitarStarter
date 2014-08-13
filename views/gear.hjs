@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../node_modules/static-favicon/favicon.ico">
 
-    <title>Guitar Starter - Guitars</title>
+    <title>Guitar Starter - Gear</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/stylesheets/bootstrap.min.css" rel="stylesheet">
@@ -27,11 +27,13 @@
   <body>
     <div class="container">
       <div class="masthead">
-        <header class="page-header"><img class="img-responsive col-sm-offset-3 col-md-offset-3" alt="logo" src="/images/guitarsitelogo.png" align="center"></header>
+        <div class="row">
+<header class="page-header"><img class="img-responsive col-xs-offset-1 col-sm-offset-2 col-md-offset-3 col-xs-10 col-sm-8 col-md-6" alt="logo" src="/images/guitarsitelogo.png" align="center"></header>        </div>
+        <br>
         <ul class="nav nav-justified">
           <li><a href="/">HOME</a></li>
           <li><a href="/guitars">GUITARS</a></li>
-          <li><a href="/pedals">PEDALS</a></li>
+          <li><a href="/pedals">EFFECTS</a></li>
           <li><a href="/amps">AMPS</a></li>
           <li><a href="/gear">GEAR</a></li>
         </ul>
@@ -39,26 +41,34 @@
     </div>
 
     <div class="container-fluid">
-      <div class="row">
-        <div class="col-xs-6 col-sm-2 sidebar">
+      <!--<div class="row">
+        <div class="col-xs-6 col-sm-2 sidebar hidden-sm hidden-xs">
           <ul class="nav nav-sidebar">
             <li class="text-center"><a href="#overview">Overview</a></li>
             <li class="text-center"><a href="#guide">Guide</a></li>
             <li class="text-center"><a href="#recommendations">Recommendations</a></li>
             <li class="text-center"><a href="#future">Future</a></li>
           </ul>
-        </div>
-        <div class="col-sm-10 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+        </div>-->
+        <div class="main">
           <h1 class="page-header">GEAR</h1>
 
           <div class="row placeholder" id="overview">
             <p class="lead text-justify well">Finding a good guitar that you enjoy playing is the best place to start when you are beginning to learn guitar. Having a comfortable guitar that sounds great will not only help you get started, but will also keep you playing -- even through rough stages when it becomes harder to keep improving your playing. A great guitar can inspire any guitarist, but it takes some time and effort to find the right guitar. This guide will show you what to look for when buying your first guitar and give some recommendations for great beginner guitars for all genres of music.</p>
           </div>
 
-          <h2 id="guide">Guide</h2>
+          <h2 class="guide">Guide</h2>
           <div class="section">
-            <h3>Wood</h3>
-              <p class="text-justify well">When looking for the right guitar, the wood of the guitar plays a crucial role in the quality and sound of the guitar. Certain woods are considered cheaper woods and typically point towards cheaply made guitars which should be avoided.</p>
+            <h3>What Every Guitarist NEEDS</h3>
+              <div class="well text-justify">
+                <p>
+                  <ul>
+                    <li>Guitar straps</li>
+                    <li>Lots and lots of picks</li>
+                    <li>Several durable amp cables</li>
+                    <li>Guitar bags and hardshell cases (if you like those crazy body shapes)</li>
+                  </ul>
+                </p>
           </div>
           <div class="section">
             <h3>Fretboard</h3>
@@ -84,41 +94,34 @@
                 </p>
               </div>
           </div>
-          <h2 id="recommendations">Recommendations</h2>
+          <h2 class="recommendations">Recommendations</h2>
           <div class="section">
-            <h3>Acoustic</h3>
+            <h3>Strings</h3>
               <p></p>
           </div>
           <div class="section">
-            <h3>Alternative/Rock</h3>
+            <h3>Straps</h3>
               <p></p>
           </div>
           <div class="section">
-            <h3>Metal</h3>
+            <h3>Cables</h3>
               <p></p>
-          </div>
-          <div class="section">
-            <h3>Variety</h3>
-              <p></p>
-          </div>
-
-          <h2 id="future">Future</h2>
-          <div class="row placeholder">
-            <p></p>
           </div>
         </div>
       </div>
     </div>
 
     <div class="footer text-center">
-      <p>&copy; Guitar Starter 2014</p>
+      <p style="color:#ffffff">&copy; Guitar Starter 2014</p>
     </div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
     <script src="../../dist/js/bootstrap.min.js"></script>
     <script src="../../assets/js/docs.min.js"></script>
+    <script src="/javascripts/gear-background.js"></script>
   </body>
 </html>

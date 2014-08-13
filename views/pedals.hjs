@@ -27,11 +27,14 @@
   <body>
     <div class="container">
       <div class="masthead">
-        <header class="page-header"><img class="img-responsive col-sm-offset-3 col-md-offset-3" alt="logo" src="/images/guitarsitelogo.png" align="center"></header>
+        <div class="row">
+          <header class="page-header"><img class="img-responsive col-xs-offset-1 col-sm-offset-2 col-md-offset-3 col-xs-10 col-sm-8 col-md-6" alt="logo" src="/images/guitarsitelogo.png" align="center"></header>
+        </div>
+        <br>
         <ul class="nav nav-justified">
           <li><a href="/">HOME</a></li>
           <li><a href="/guitars">GUITARS</a></li>
-          <li><a href="/pedals">PEDALS</a></li>
+          <li><a href="/pedals">EFFECTS</a></li>
           <li><a href="/amps">AMPS</a></li>
           <li><a href="/gear">GEAR</a></li>
         </ul>
@@ -39,86 +42,182 @@
     </div>
 
     <div class="container-fluid">
-      <div class="row">
-        <div class="col-xs-6 col-sm-2 sidebar">
+      <!--<div class="row">
+        <div class="col-xs-6 col-sm-2 sidebar hidden-sm hidden-xs">
           <ul class="nav nav-sidebar">
             <li class="text-center"><a href="#overview">Overview</a></li>
             <li class="text-center"><a href="#guide">Guide</a></li>
             <li class="text-center"><a href="#recommendations">Recommendations</a></li>
             <li class="text-center"><a href="#future">Future</a></li>
           </ul>
-        </div>
-        <div class="col-sm-10 col-sm-offset-3 col-md-10 col-md-offset-2 main">
-          <h1 class="page-header">PEDALS</h1>
+        </div>-->
+        <div class="main">
+          <h1 class="page-header">EFFECTS</h1>
 
           <div class="row placeholder" id="overview">
-            <p class="lead text-justify well">Using effects can add another dimmension to your guitar playing</p>
+            <p class="lead text-justify well">Using effects can add another dimmension to a guitarist's playing. Effects can allow a guitarist to experiment and discover their own distinct sound. Many of the greatest guitarists used effects to craft some of their signature sounds, and you can do the same to create your own tone. This guide will give an overview of the types of effects units available on the market, and how each type can be best utilized. Whether you want to emulate the tones of your favorite guitarists or carve your own tone, effects can be a great pathway to doing so.</p>
           </div>
 
-          <h2 id="guide">Guide</h2>
+          <h2 class="guide">Guide</h2>
           <div class="section">
-            <h3>Wood</h3>
-              <p class="text-justify well">When looking for the right guitar, the wood of the guitar plays a crucial role in the quality and sound of the guitar. Certain woods are considered cheaper woods and typically point towards cheaply made guitars which should be avoided.</p>
-          </div>
-          <div class="section">
-            <h3>Fretboard</h3>
-              <p></p>
-          </div>
-          <div class="section">
-            <h3>Pickups</h3>
+            <h3>Individual Effects Pedals</h3>
               <div class="well">
-                <p class="text-justify">There are two main types of pickups which produce vastly different sounds: the humbucker pickup and the single-coil pickup. Additionally, not all pickups are created equal. Some companies manufacture guitars with very low quality pickups which may not sound very good. When buying your first electric guitar it is important to go in knowing which type of pickups your future guitar should have and how to discern/weed-out bad pickups.</p>
-                <p class="text-justify"><strong>Humbucker</strong> pickups are the larger of the two types of pickups and they look rectangular. Most guitars will have two humbucker pickups installed. Humbuckers are known to produce a ________ sound.</p>
-                <p class="text-justify"><strong>Single-coil</strong> pickups are the second type of pickups which are typically thinner in shape. Most guitars will have three single-coil pickups installed. Single-coil pickups are known to produce a warmer and wider-ranging tone. They are best suited for playing nice clean sounds in all genres of music and offer a greater amount of versatility than most humbucker pickups will. However, they are not as well suited for playing heavier distorted tones usually found in the hard-rock and metal genres.</p>
-              </div>
-          </div>
-          <div class="section">
-            <h3>Comfort</h3>
-              <div class="well">
-                <p class="text-justify">Finally, one of the most important aspects of buying a great guitar that you will enjoy is making sure that the guitar is one that you feel extremely comfortable playing. Movement on the fretboard and picking hand positioning should feel relaxed and natural, the guitar should hang easily/equally when you are standing to play, and the guitar should feel very easy to play. This implies several things that have to do with the guitar and other factors:
-                  <ul>
-                    <li>The string action should be just right so that you do not feel that you have to press down exceptionally hard to produce a note and so that there is no fret-buzz produce when playing notes.</li>
-                    <li>The bridge (in the case of a floating bridge) should be just right so that your picking hand is comfortable when you rest it on the bridge to play and so that the guitar stays in tune.</li>
-                    <li>You should have your favorite brand of string, which you find most comfortable to play, installed on the guitar</li>
-                  </ul>
+                <p class="text-justify"><strong>Overdrive/Distortion</strong> effects distort the signal sent from the guitar to the amplifier to create the warmer and dirtier tone which the hard rock and metal genres are known for. In this category of effects there are overdrive pedals, fuzz pedals, and distortion pedals.                  <dl class="dl-horizontal">
+                    <dt class="text-justify">Overdrive</dt>
+                    <dd>As the name suggests, an effect which drives the amp just a little further. Overdrive pedals produce a warmer, laid-back distortion which thickens the sound of the guitar. This is very useful for blues and alternative rock rhythm guitar and great for that classic fat lead tone. Additionally, overdrive pedals are dynamic because they only distort the sound of the guitar at higher volumes. The level of the distortion can be altered by increasing and decreasing the volume of the guitar, a trick which many famous guitarists employ.</dd>
+                  </dl>
+                  <dl class="dl-horizontal">
+                    <dt class="text-justify">Fuzz</dt>
+                    <dd>a distortion effect which creates a fuzzy sound by altering the signal into a squarewave signal. Fuzz pedals provide the most classic distortion sound from the Jimi Hendrix and The Rolling Stones era, so it makes the guitar sound much thicker. It is best suited for playing classic artists' songs, but with enough experimentation, it can be used elsewhere.</dd>
+                  </dl>
+                  <dl class="dl-horizontal">
+                    <dt class="text-justify">Distortion</dt>
+                    <dd>The modern distortion effect which creates a much more intensely distorted sound than the other two pedals produce. This pedal is best used for modern hard rock and heavy metal, and most distortion pedals on the market will be taylored for guitarist looking to play music from those genres.</dd>
+                  </dl>
                 </p>
+                <p class="text-justify"><strong>Dynamic</strong> effects work by adjusting the amplitude of the sound signal before it reaches the amplifier in order to increase or decrease its volume. These effects ar typically associated with general volume control or extraneous noise reduction.
+                  <dl class="dl-horizontal">
+                    <dt class="text-justify">Compressor</dt>
+                    <dd>An effect which compresses the audio signal in order to produce a more focused and even sound and increase sustain. This is also referred to as adding "punch." The volume of loud parts of the signal is decreased while the volume of the quiet parts is increased, creating an even all-around sound. Many modern hard rock and metal guitarists use compressor pedals to create that punchy tone even through lots of distortion.</dd>
+                  </dl>
+                  <dl class="dl-horizontal">
+                    <dt class="text-justify">Noise Gate</dt>
+                    <dd>An effect which adds a sound threshold or "gate" below which notes are no longer pronounced. This means that extraneous hums from the guitar or amplifier are essentially muted. Noise gates are especially useful when employing distortion because distortion can often introduce unwanted static and noise which detract from the overall tone.</dd>
+                  </dl>
+                  <dl class="dl-horizontal">
+                    <dt class="text-justify">Volume</dt>
+                    <dd>A pedal to manage volume. Stepping down on the pedal will increase the volume, and bringing the pedal up with decrease the volume. This pedal is typically used by lead guitarists to conveniently increase their volume for a solo and bring it back down to normal volume when returning to the rhythm.</dd>
+                  </dl>
+                </p>
+                <p class="text-justify"><strong>Filter</strong> effects alter the sound signal's frequency before it reaches the amplifier to change the tone of each note relative to how to it was originally played. These effects are some of the most expressive and give a song great personality.
+                  <dl class="dl-horizontal">
+                    <dt class="text-justify">Wah</dt>
+                    <dd>One of the more flamboyent effects, the wah pedal is an effect which modifies the allowed frequencies in the amplified signal, allowing more treble in one position and blocking it in another. The wah pedal makes use of a full range expression pedal and the guitarist needs to rock the pedal back and forth to change the allowed frequencies. The result is a very funky and psychedelic sound which creates attitude. Wah pedals are heavily used in funk, but they are also frequently used for melodic leads and solos in all genres.</dd>
+                  </dl>
+                  <dl class="dl-horizontal">
+                    <dt class="text-justify">EQ (Equalizer)</dt>
+                    <dd>An effects pedals which contains the same equalizer effects as an amplifier. These pedals are more equalization used to further sculpt the tone of the guitar to certain specifications.</dd>
+                  </dl>
+                </p>
+                <p class="text-justify"><strong>Modulation</strong> effects mix in extra signals into the primary audio signal to layer different sounds onto the original sound of the guitar. These effects can create an attitude or feeling in a song.
+                  <dl class="dl-horizontal">
+                    <dt class="text-justify">Chorus</dt>
+                    <dd>An effect which backs the original guitar sound with a slightly and strategically detuned and delayed copy of itself. This creates a layering which creates the effect of a thicker and richer tone. This effect is most often used for rhythm sections with a cleaner or slightly distorted tone.</dd>
+                  </dl>
+                  <dl class="dl-horizontal">
+                    <dt class="text-justify">Flanger</dt>
+                    <dd>An effect which doubles the original guitar signal, but plays one slightly delayed, producing a rippled harmonic sound. Flanger was a popular effect in many classic rock songs and was popularized by Jimi Hendrix.</dd>
+                  </dl>
+                  <dl class="dl-horizontal">
+                    <dt class="text-justify">Phaser</dt>
+                    <dd>Another effect which operates much like the Flanger and Chorus effects, but with added signal filters. The phaser effect produces a metallic swirling tone which sounds very futuristic and is frequently used is hard rock songs. One of the most popular guitarists known for heavy use of the phaser was Eddie Van Halen as he combined a tight and punchy distortion with the phaser to produce some of his signature riffs.</dd>
+                  </dl>
+                  <dl class="dl-horizontal">
+                    <dt class="text-justify">Tremolo</dt>
+                    <dd>An effect which quickly increases and decreases the volume of the guitar's signal to create a "wavy" sound which can be altered to wave quickly or slowly. This also creates a futuristic sound which can be experimented with to create some great sounds.</dd>
+                  </dl>
+                </p>
+                <p class="text-justify">A <strong>Looper</strong> is an effect which allows the guitarist to record loops of them playing, which can then be replayed to be used for harmonies, rhythm guitar, or other guitar layering techniques. Loopers are very useful during live performances and also come in handy for the beginner guitarist who wants to begin to practice soloing over a rhythm backing track.</p>
+                <p class="text-justify"><strong>Delay</strong> creates an echo of the note(s) played by a guitarist. This echo can be programmed to occur over a window of time, the length of which sometimes depends on the quality of the delay pedal. This delay time could be almost immediately after the note is played -- known as a slapback delay -- or some greater period of time after to create the effect of multiple notes being played when only a single note is struck. This delay echo can also be programmed to occur just once or multiple times before fading away. Delay is an essential effect for most guitarists, especially to create a nice lead tone for solos.</p>
+                <p class="text-justify"><strong>Reverb</strong> is similar to delay because it also creates an echo, but it creates a lighter, more resonant echo which makes the guitarist sound as though they are playing in a larger venue. The effect can be adjusted to make this venue a small auditorium or a giant stadium or concert hall.</p>
               </div>
           </div>
-          <h2 id="recommendations">Recommendations</h2>
           <div class="section">
-            <h3>Acoustic</h3>
-              <p></p>
+            <h3>Multi-Effects Pedals</h3>
+              <div class="well">
+                <p class="text-justify">Multi-effects pedals are do-it-all units which include many or all of the different types of individual effects mentioned above. Many of them are even capable of amp modeling, so they contain several famous preamp emulation effects. Multi-effects pedals range in price from cheap to extremely expensive based on the quality and quantity of effects they provide; nevertheless, they are probably the most cost-effective way to add a large amount of effects to your musical arsenal. It is important to keep in mind that multi-effects pedals produce effects through the method of modeling or emulation, so their effects are often comparable to authentic individual effects but not quite at the same level. Multi-effects units are best for the guitarist who wants to experiment with several different effects for a low price, but isn't necessarily concerned with exceptional effect sound quality. If a guitarist uses only a few primary effects, it is best to buy individual effects which have the authentic sound and allow greater fine-tuning for crafting a distinct sound.</p>
+              </div>
+          </div>
+          <h2 class="recommendations">Recommendations</h2>
+          <div class="section">
+            <h3>Multi-Effects</h3>
+              <div class="well text-center">
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B000RN53LQ&asins=B000RN53LQ&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0027I28E4&asins=B0027I28E4&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0035JI8J8&asins=B0035JI8J8&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B007WVGC3E&asins=B007WVGC3E&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B001PB3VUY&asins=B001PB3VUY&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0078OPE3Y&asins=B0078OPE3Y&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+              </div>
           </div>
           <div class="section">
-            <h3>Alternative/Rock</h3>
-              <p></p>
+            <h3>Overdrive/Distortion</h3>
+              <div class="well text-center">
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B000MWWT6E&asins=B000MWWT6E&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002CZVA0&asins=B0002CZVA0&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002CZV82&asins=B0002CZV82&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B000T4PJC6&asins=B000T4PJC6&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B000BQTCDO&asins=B000BQTCDO&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+              </div>
           </div>
           <div class="section">
-            <h3>Metal</h3>
-              <p></p>
+            <h3>Dynamic</h3>
+              <div class="well text-center">
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002CZV7I&asins=B0002CZV7I&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002E51ZS&asins=B0002E51ZS&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B000RW1NVG&asins=B000RW1NVG&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002E52MK&asins=B0002E52MK&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002GZ052&asins=B0002GZ052&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+              </div>
           </div>
           <div class="section">
-            <h3>Variety</h3>
-              <p></p>
+            <h3>Filter</h3>
+              <div class="well text-center">
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002CZVK0&asins=B0002CZVK0&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B000TGHVGQ&asins=B000TGHVGQ&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B000RW0O02&asins=B000RW0O02&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002E52RU&asins=B0002E52RU&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+              </div>
           </div>
-
-          <h2 id="future">Future</h2>
-          <div class="row placeholder">
-            <p></p>
+          <div class="section">
+            <h3>Modulation</h3>
+              <div class="well text-center">
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002CZV6O&asins=B0002CZV6O&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B001CEB6RO&asins=B001CEB6RO&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002GX6V2&asins=B0002GX6V2&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002D0870&asins=B0002D0870&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002CZVHI&asins=B0002CZVHI&linkId=&show_border=true&link_opens_in_new_window=true">
+</iframe>
+              </div>
           </div>
         </div>
-      </div>
     </div>
 
     <div class="footer text-center">
-      <p>&copy; Guitar Starter 2014</p>
+      <p style="color:#ffffff">&copy; Guitar Starter 2014</p>
     </div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
     <script src="../../dist/js/bootstrap.min.js"></script>
     <script src="../../assets/js/docs.min.js"></script>
+    <script src="/javascripts/effects-background.js"></script>
   </body>
 </html>

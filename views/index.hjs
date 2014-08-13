@@ -26,11 +26,14 @@
   <body>
     <div class="container">
       <div class="masthead">
-        <header class="page-header"><img class="img-responsive col-sm-offset-3 col-md-offset-3" alt="logo" src="/images/guitarsitelogo.png" align="center"></header>
+        <div class="row">
+          <header class="page-header"><img class="img-responsive col-xs-offset-1 col-sm-offset-2 col-md-offset-3 col-xs-10 col-sm-8 col-md-6" alt="logo" src="/images/guitarsitelogo.png" align="center"></header>
+        </div>
+        <br>
         <ul class="nav nav-justified">
           <li><a href="/">HOME</a></li>
           <li><a href="/guitars">GUITARS</a></li>
-          <li><a href="/pedals">PEDALS</a></li>
+          <li><a href="/pedals">EFFECTS</a></li>
           <li><a href="/amps">AMPS</a></li>
           <li><a href="/gear">GEAR</a></li>
         </ul>
@@ -38,16 +41,18 @@
 
       <!-- Jumbotron -->
       <div class="jumbotron row">
+        <div class="well">
         <h1>The ultimate website for guitarists looking to start buying gear!</h1>
         <p class="lead text-justify">A helpful website created just for new guitarists -- young and old -- looking to purchase their first guitar, effects pedal, amplifier, or other gear that all guitarists want and need as they get better and better at playing the soulful instrument that is the guitar.</p>
         <!--<p><a class="btn btn-lg btn-success" href="/guitars" role="button">Learn What to Buy</a></p>-->
+        </div>
         <br>
         <br>
         <br>
         <div class="row">
           <div class="col-sm-3 col-md-3">
           </div>
-          <blockquote class="col-sm-6 col-md-6">
+          <blockquote class="col-sm-6 col-md-6 well">
             <p class="text-warning text-justify">A guitar is a very personal extension of the person playing it. You have to be emotionally and spiritually connected to your instrument.</p>
             <footer class="text-right"><cite title="Source Title">Eddie Van Halen</cite></footer>
           </blockquote>
@@ -68,7 +73,7 @@
           <h2>Buying your first effects</h2>
           <p class="text-justify">Every guitarist gets a creative sense as they improve their guitar playing and want to mimic the sounds of their favorite guitarists/bands or create a sound of their own. This requires a good knowledge of different effects pedals and how they perform for different genres.</p>
           <p class="text-justify">Learn which effects pedals offer the most bang for buck and provide a great deal of versatility for getting famous sounds from songs and for crafting your own sound.</p>
-          <p><a class="btn btn-primary" href="/pedals" role="button">Learn About Pedals &raquo;</a></p>
+          <p><a class="btn btn-primary" href="/pedals" role="button">Learn About Effects &raquo;</a></p>
        </div>
         <div class="col-lg-4">
           <h2>Buying your first amplifier</h2>
@@ -80,7 +85,7 @@
 
       <!-- Site footer -->
       <div class="footer text-center">
-        <p>&copy; Guitar Starter 2014</p>
+        <p style="color:#ffffff">&copy; Guitar Starter 2014</p>
       </div>
 
     </div> <!-- /container -->
@@ -89,6 +94,9 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
     <script src="/javascripts/bootstrap.min.js"></script>
+    <script src="/javascripts/home-background.js"></script>
   </body>
 </html>
