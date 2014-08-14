@@ -4,12 +4,17 @@
   background-color: #dbdbdb;
 }*/
 
+.text-warning {
+  color: #70460a;
+}
+
 cite {
-  color: #606060;
+  color: #474747;
 }
 
 dl {
   color: #000000;
+  font-size: 16px;
 }
 
 .img-responsive {

@@ -41,71 +41,81 @@
     </div>
 
     <div class="container-fluid">
-      <!--<div class="row">
-        <div class="col-xs-6 col-sm-2 sidebar hidden-sm hidden-xs">
-          <ul class="nav nav-sidebar">
-            <li class="text-center"><a href="#overview">Overview</a></li>
-            <li class="text-center"><a href="#guide">Guide</a></li>
-            <li class="text-center"><a href="#recommendations">Recommendations</a></li>
-            <li class="text-center"><a href="#future">Future</a></li>
-          </ul>
-        </div>-->
         <div class="main">
           <h1 class="page-header">GEAR</h1>
 
           <div class="row placeholder" id="overview">
-            <p class="lead text-justify well">Finding a good guitar that you enjoy playing is the best place to start when you are beginning to learn guitar. Having a comfortable guitar that sounds great will not only help you get started, but will also keep you playing -- even through rough stages when it becomes harder to keep improving your playing. A great guitar can inspire any guitarist, but it takes some time and effort to find the right guitar. This guide will show you what to look for when buying your first guitar and give some recommendations for great beginner guitars for all genres of music.</p>
+            <p class="row lead text-justify well">Gear includes all of the essentials that a guitarist will use frequently, if not everyday, in order to make playing more comfortable or convenient and to keep expensive guitars and equipment in tip-top shape so that it can last longer at a high level of performance. This means guitar straps, strings, cables, and many more items which are often overlooked because of their background role in guitar playing. This guide will describe the items every guitarist absolutely needs and recommend the best ones to buy for performance and durability.</p>
           </div>
 
           <h2 class="guide">Guide</h2>
           <div class="section">
-            <h3>What Every Guitarist NEEDS</h3>
-              <div class="well text-justify">
+            <h3>The Essentials</h3>
+              <div class="row well text-justify">
                 <p>
-                  <ul>
-                    <li>Guitar straps</li>
-                    <li>Lots and lots of picks</li>
-                    <li>Several durable amp cables</li>
-                    <li>Guitar bags and hardshell cases (if you like those crazy body shapes)</li>
-                  </ul>
+                  <dl>
+                    <dt>Guitar strings</dt>
+                    <dd>Guitar strings are essential in the comfort and overall playability of a guitar. Since strings come in different gauge ranges and material, they can make a guitar easier to play with a lighter gauge of strings or harder to play with a heavier gauge of strings (this difference is noticeable but usually relative to the guitarist). Strings also play a role in the sound of a guitar. Thicker strings can result in a heavier sound and vice-versa, nickel strings can result in clearer note production, and steel strings can reduce the sliding noise of your fingers going up and down the fretboard to hit different notes. However, at the end of the day, the strings which are most comfortable and whose sound you like the most should be the strings that you choose to buy.</dd>
+                  </dl>
+                  <dl>
+                    <dt>Guitar straps</dt>
+                    <dd>A guitar strap is essential if you ever want to play your guitar on stage, or while standing up at all. Picking a guitar strap is more about function than anything else. There is no need to be picky unless you want a strap with a specific design. Other than that, pick a strap which holds the guitar up consistently in a stable way so the guitar doesn't lean to either side. Also make sure the strap is comfortable for you as may be spending a considerable amount of time with it around your shoulder.</dd>
+                  </dl>
+                  <dl>
+                    <dt>Lots and lots of picks</dt>
+                    <dd>Guitar picks are not a huge matter, but they can definitely add comfort and sometimes performance improvements for a guitarist. Nevertheless, it is best to keep a well stocked supply of your favorite picks so you always have at least a few to use. Moreover, certain guitar picks may be more durable for one guitarist than the other. The most important aspect of a guitar pick is the thickness (gauge) which is an attribute measured in millimeters (mm).
+                      <ul>
+                        <li><strong>Extra Light</strong> picks are of the thinnest gauge (&le; 0.44mm) so are very thin and flexible. These picks are suited for softer styles of playing which do not put a lot of stress on the pick which might cause it to snap.</li><br>
+                        <li><strong>Light</strong> picks are the next thinnest gauge (between 0.45-0.69mm) so are they are slightly more sturdy than and can handle a little more stress. These picks are still suited for lighter playing styles, but may be more comfortable for those guitarist who prefer less flexible of the pick when strumming.</li><br>
+                        <li><strong>Medium</strong> picks are the gauge (between 0.70-0.84mm) used by most guitarists because they are somewhere in the middle and provide some flexibility while still giving the controlled feeling of a thicker and sturdy pick. Medium gauge picks are suitable for any playing style so are the best bet for a beginner.</li><br>
+                        <li><strong>Heavy</strong> picks are a thicker than medium gauge picks (between 0.85-1.20mm) to provide a more powerful picking attack which can be useful for adding attitude to notes in a rock solo or adding anger and power to heavy metal riffs. These picks are also the option for players who have a strong picking attack which results in breaking medium gauge picks.</li><br>
+                        <li><strong>Extra Heavy</strong> picks are the thickest gauge (&ge; 1.50mm) and can handle a lot of abuse! These picks are typically for guitarists who have a very strong/hard picking attack and are prone to breaking lighter medium or heavy gauge picks.</li>
+                      </ul>
+                    </dd>
+                  </dl>
+                  <dl>
+                    <dt>Several durable amp cables</dt>
+                    <dd>Once you've got an amp that you like and you start buying effects pedals, amp cables will seem scarce. Make sure you have enough cables to connect your guitar, amps, and any/all effects you would like to use at once so that you can put all of these great musical pieces to work. It is important to buy dependable and durable cables because loosing even one cable to wear and tear can prevent you from playing on your desired sound setup. A good cable should all carry sound clearly from the guitar to the amplifier and should be able to handle plenty of wear and tear while maintaining this performance. This is one of the few items for which it is worth paying a higher price tag to ensure that you get a reliable cable.</dd>
+                  </dl>
+                  <dl>
+                    <dt>Guitar bags and hardshell cases (if you like those crazy body shapes)</dt>
+                    <dd>Make sure you have a guitar gig back if you plan on taking your guitar anywhere outside of your house! It may seem unlikely, but small dings can happen even when handling a guitar as carefully as possible, and if you want your guitar in pristine condition for as long as you own it, it is best to get a bag or case for it. Hardshell cases are like large briefcases and provide better protection for a guitar. They are typically made for guitars with extreme body styles (think explorer, flying-v, kelly, etc.) which don't fit well in gig bags, or for very expensive guitars which are better kept in hardshell cases. Usually a gig bag will do unless you have a guitar with an extreme body shape or if you want to be extra cautious.</dd>
+                  </dl>
                 </p>
-          </div>
-          <div class="section">
-            <h3>Fretboard</h3>
-              <p></p>
-          </div>
-          <div class="section">
-            <h3>Pickups</h3>
-              <div class="well">
-                <p class="text-justify">There are two main types of pickups which produce vastly different sounds: the humbucker pickup and the single-coil pickup. Additionally, not all pickups are created equal. Some companies manufacture guitars with very low quality pickups which may not sound very good. When buying your first electric guitar it is important to go in knowing which type of pickups your future guitar should have and how to discern/weed-out bad pickups.</p>
-                <p class="text-justify"><strong>Humbucker</strong> pickups are the larger of the two types of pickups and they look rectangular. Most guitars will have two humbucker pickups installed. Humbuckers are known to produce a ________ sound.</p>
-                <p class="text-justify"><strong>Single-coil</strong> pickups are the second type of pickups which are typically thinner in shape. Most guitars will have three single-coil pickups installed. Single-coil pickups are known to produce a warmer and wider-ranging tone. They are best suited for playing nice clean sounds in all genres of music and offer a greater amount of versatility than most humbucker pickups will. However, they are not as well suited for playing heavier distorted tones usually found in the hard-rock and metal genres.</p>
-              </div>
-          </div>
-          <div class="section">
-            <h3>Comfort</h3>
-              <div class="well">
-                <p class="text-justify">Finally, one of the most important aspects of buying a great guitar that you will enjoy is making sure that the guitar is one that you feel extremely comfortable playing. Movement on the fretboard and picking hand positioning should feel relaxed and natural, the guitar should hang easily/equally when you are standing to play, and the guitar should feel very easy to play. This implies several things that have to do with the guitar and other factors:
-                  <ul>
-                    <li>The string action should be just right so that you do not feel that you have to press down exceptionally hard to produce a note and so that there is no fret-buzz produce when playing notes.</li>
-                    <li>The bridge (in the case of a floating bridge) should be just right so that your picking hand is comfortable when you rest it on the bridge to play and so that the guitar stays in tune.</li>
-                    <li>You should have your favorite brand of string, which you find most comfortable to play, installed on the guitar</li>
-                  </ul>
-                </p>
-              </div>
           </div>
           <h2 class="recommendations">Recommendations</h2>
           <div class="section">
             <h3>Strings</h3>
-              <p></p>
+              <div class="row well text-center">
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002M6CW6&asins=B0002M6CW6&linkId=OKR6TXQL6IZZF3SP&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002M6CVC&asins=B0002M6CVC&linkId=BGLP5XB4A7YYFZ5A&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B000EEL6B4&asins=B000EEL6B4&linkId=33PNJOYTEWHSNCQH&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002E1O2C&asins=B0002E1O2C&linkId=YQ2MCKRHOM4PW5I4&show_border=true&link_opens_in_new_window=true">
+</iframe>
+              </div>
           </div>
           <div class="section">
             <h3>Straps</h3>
-              <p></p>
+              <div class="row well text-center">
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002D0E92&asins=B0002D0E92&linkId=6RWMKXLFGDMBS2FP&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002GZQ1U&asins=B0002GZQ1U&linkId=XOX4BVQC7NCSMY7Q&show_border=true&link_opens_in_new_window=true">
+</iframe>
+              </div>
           </div>
           <div class="section">
             <h3>Cables</h3>
-              <p></p>
+              <div class="row well text-center">
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B00004Y2US&asins=B00004Y2US&linkId=DPGXR77XU3CIIRDW&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0006GR4A2&asins=B0006GR4A2&linkId=5ZFAIICRZLOYJOQX&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B001G7C1VW&asins=B001G7C1VW&linkId=GDXV6TPN3HFT6MLA&show_border=true&link_opens_in_new_window=true">
+</iframe>
+              </div>
           </div>
         </div>
       </div>
