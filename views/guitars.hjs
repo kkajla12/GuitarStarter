@@ -54,13 +54,13 @@
           <h1 class="page-header">GUITARS</h1>
 
           <div id="overview">
-            <p class="lead text-justify well">Finding a good guitar that you enjoy playing is the best place to start when you are beginning to learn guitar. Having a comfortable guitar that sounds great will not only help you get started, but will also keep you playing -- even through rough stages when it becomes harder to keep improving your playing. A great guitar can inspire any guitarist, but it takes some time and effort to find the right guitar. This guide will show you what to look for when buying your first guitar and give some recommendations for great beginner guitars for all genres of music.</p>
+            <p class="row lead text-justify well">Finding a good guitar that you enjoy playing is the best place to start when you are beginning to learn guitar. Having a comfortable guitar that sounds great will not only help you get started, but will also keep you playing -- even through rough stages when it becomes harder to keep improving your playing. A great guitar can inspire any guitarist, but it takes some time and effort to find the right guitar. This guide will show you what to look for when buying your first guitar and give some recommendations for great beginner guitars for all genres of music.</p>
           </div>
 
           <h2 class="guide">Guide</h2>
           <div class="section">
             <h3>Wood</h3>
-              <div class="well">
+              <div class="row well">
                 <p class="text-justify">When looking for the right guitar, the wood of the guitar plays a crucial role in the quality and sound of the guitar. Certain woods are considered cheaper woods and typically point towards cheaply made guitars which should be avoided. Additionally, different woods give guitars different tones, each suited to its own style/genre of music. Some woods are harder than others, so they are more durable and provide brighter tones with longer sustain. Some woods are lighter and have more visible grain lines so are better suited to certain finishes than darker, fine-grain woods. Although some of these characteristics of wood are not as important as others, they are all good to know about when looking to buy a guitar.</p>
                 <p class="text-justify"><strong>Alder</strong> is a lightweight wood that provides wonderful clean tones, which is why it is often used for Fender Stratocasters.</p>
                 <p class="text-justify"><strong>Ash</strong> is versatile wood that comes in hard and soft forms which provide their own distinct qualities. <strong>Hard Ash</strong> provides a much brighter tone and greater sustain because it is so hard. On the other hand, <strong>Soft Ash</strong> provides a much warmer sound better suited to rock and roll.</p>
@@ -71,7 +71,7 @@
           </div>
           <div class="section">
             <h3>Neck</h3>
-            <div class="well">
+            <div class="row well">
               <p class="text-justify">A guitar's neck can dramatically influence its sound. This is mainly due to (1) the type of wood used for the neck and (2) the way the neck is connected to the body. These two characteristics effect the type of sound produced by the guitar and the amount of sustain of the guitar. The neck is typically connected to the guitar in one of three ways which will be discussed below.</p>
               <p class="text-justify"><strong>Bolt-On</strong> neck contruction means that the neck has been mounted to the body using a screw plate and several wood screws. This is the most common method of neck fixture so it is found on most beginner level guitars. It is ok for a cheaper guitar to have a bolt-on neck, but more expensive guitars should almost never have one because it provides mostly disadvantages to the overall sound of a guitar, such as reduced sustain, tonal clarity, and durability.</p>
               <p class="text-justify"><strong>Set-In</strong> neck construction is when the neck is joined to the body using an extra joint and an adhesive. This type of neck construction is typically considered better than the bolt-on neck construction because it provides better tonal clarity. However, this type of neck construction is more vulnerable to neck breakage as the glue used to the join the neck and body is not as strong as the screws used in a bolt-on necks.</p>
@@ -80,7 +80,7 @@
           </div>
           <div class="section">
             <h3>Fretboard</h3>
-              <div class="well">
+              <div class="row well">
                 <p class="text-justify">The fretboard is one of the most important aspects of finding the perfect guitar. After all, one of your hands will spend all of its time on the fretboard as you play. The right fretboard will be comfortable, quick/smooth, and durable. Fretboards, just like the body of the guitar, can come in different types of wood which, once again, provide their own musical qualities. Certain woods will provide better tones, while others will provide smoother and quicker movement vertically and horizontally.</p>
                 <p class="text-justify"><strong>Maple</strong> is very popular for fretboards on many guitars because it is dense and provides nice bright tones. A maple fretboard allows for a wonderful and tight high end with great sustain, while having a lesser low end.</p>
                 <p class="text-justify"><strong>Rosewood</strong> is the most common wood for fretboards so it is found on most introductory guitars. Rosewood provides a warmer tone, but unlike maple, the high end sounds are less than stellar. However, rosewood fretboards are very smooth and perfect for faster playing as they allow you to easily and quickly move from end to end.</p>
@@ -89,7 +89,7 @@
           </div>
           <div class="section">
             <h3>Pickups</h3>
-              <div class="well">
+              <div class="row well">
                 <p class="text-justify">There are two main types of pickups which produce vastly different sounds: the humbucker pickup and the single-coil pickup. Furthermore, both humbucker and single-coil pickups can be found in passive and active forms. Additionally, not all pickups are created equal. Some companies manufacture guitars with very low quality pickups which may not sound very good. When buying your first electric guitar it is important to go in knowing which type of pickups your future guitar should have and how to discern/weed-out bad pickups.</p>
                 <p class="text-justify"><strong>Humbucker</strong> pickups are the larger of the two types of pickups, and they either look rectangular or like two single-coil pickups joined together. Most guitars with humbuckers will have two humbucker pickups installed. Humbuckers produce a warmer and thicker tone which is better suited for the rock 'n roll and heavy metal genres because it is fuller sounding when coupled with lots of distortion.</p>
                 <br>
@@ -124,7 +124,7 @@
           </div>
           <div class="section">
             <h3>Comfort</h3>
-              <div class="well">
+              <div class="row well">
                 <p class="text-justify">Finally, one of the most important aspects of buying a great guitar that you will enjoy is making sure that the guitar is one that you feel extremely comfortable playing. Movement on the fretboard and picking hand positioning should feel relaxed and natural, the guitar should hang easily/equally when you are standing to play, and the guitar should feel very easy to play. This implies several things that have to do with the guitar and other factors:
                   <ul>
                     <li>The string action -- which is the distance of the strings from the fretboard -- should be just right so that you do not feel that you have to press down exceptionally hard to produce a note and so that there is no fret-buzz produced when playing notes.</li>
@@ -135,12 +135,12 @@
               </div>
           </div>
           <h2 class="recommendations">Recommendations</h2>
-          <div class="well">
+          <div class="row well">
             <p class="text-justify">These are some recommended guitars suited to each major genre of music. The recommendations are various (but not exhaustive), and range from guitars for beginner to advanced guitarists, including some of the most popular guitars in the music industry, many of which are models used by some of the most famous guitarists of all time! The recommended guitars are categorized by genre because, chances are, your favorite style of music will sound best being played through a guitar best suited for that genre. However, some of the guitars in one category may also work well for playing other genres of music; that is just a testament to the quality and versatility of the guitar (like a Fender Stratocaster or a Gibson Les Paul), which is why certain guitars are more popular with guitarists for their versatility which allows them to produce a variety of sounds.</p>
           </div>
           <div class="section">
             <h3>Acoustic</h3>
-              <div class="well text-center">
+              <div class="row well text-center">
                 <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002F7IV2&asins=B0002F7IV2&linkId=PRJYPOK5UJCNEORP&show_border=true&link_opens_in_new_window=true">
 </iframe>
                 <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002GXZK4&asins=B0002GXZK4&linkId=DUZUEBIJERRFRONN&show_border=true&link_opens_in_new_window=true">
@@ -157,7 +157,7 @@
           </div>
           <div class="section">
             <h3>Alternative/Rock</h3>
-              <div class="well text-center">
+              <div class="row well text-center">
                 <!--<h4><a href="http://www.amazon.com/gp/product/B0002CZUUG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0002CZUUG&linkCode=as2&tag=guitstar-20&linkId=M3TWESPI6EHQC76C">Epiphone Les Paul Special II</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=guitstar-20&l=as2&o=1&a=B0002CZUUG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></h4>
                 <a href="http://www.amazon.com/gp/product/B0002CZUUG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0002CZUUG&linkCode=as2&tag=guitstar-20&linkId=WCA6WGJEAJHVIY2H"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0002CZUUG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=guitstar-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=guitstar-20&l=as2&o=1&a=B0002CZUUG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />-->
                 <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B001L8NFZW&asins=B001L8NFZW&linkId=AKGI3SPXHT4HZDRS&show_border=true&link_opens_in_new_window=true">
@@ -176,7 +176,7 @@
           </div>
           <div class="section">
             <h3>Metal</h3>
-              <div class="well text-center">
+              <div class="row well text-center">
                 <iframe style="width:140px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B001A5GSDC&asins=B001A5GSDC&linkId=JBJ6YIO2JIKUWTFL&show_border=true&link_opens_in_new_window=true">
 </iframe>
                 <iframe style="width:140px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B000T9JS7S&asins=B000T9JS7S&linkId=DTACWW7ROFDD67ZD&show_border=true&link_opens_in_new_window=true">
