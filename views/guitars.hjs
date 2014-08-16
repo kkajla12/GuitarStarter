@@ -8,7 +8,8 @@
     <meta name="author" content="">
     <link rel="icon" href="../node_modules/static-favicon/favicon.ico">
 
-    <title>Guitar Starter - Guitars</title>
+    <title>Guitar Starter - Guide to buying your first guitar</title>
+    <meta name="description" content="An in-depth guide to guitars for beginner and advanced guitarists alike. Learn everything you need to know in order to buy a great first guitar or an awesome new guitar to add to your collection.">
 
     <!-- Bootstrap core CSS -->
     <link href="/stylesheets/bootstrap.min.css" rel="stylesheet">
@@ -41,15 +42,6 @@
     </div>
 
     <div class="container-fluid">
-      <!--<div class="row">-->
-        <!--<div class="col-xs-6 col-sm-2 sidebar hidden-sm hidden-xs">
-          <ul class="nav nav-sidebar">
-            <li class="text-center"><a href="#overview">Overview</a></li>
-            <li class="text-center"><a href="#guide">Guide</a></li>
-            <li class="text-center"><a href="#recommendations">Recommendations</a></li>
-            <li class="text-center"><a href="#future">Future</a></li>
-          </ul>
-        </div>-->
         <div class="main">
           <h1 class="page-header">GUITARS</h1>
 

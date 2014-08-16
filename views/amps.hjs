@@ -8,7 +8,8 @@
     <meta name="author" content="">
     <link rel="icon" href="../node_modules/static-favicon/favicon.ico">
 
-    <title>Guitar Starter - Amps</title>
+    <title>Guitar Starter - Guide to buying your first amplifier</title>
+    <meta name="description" content="An in-depth guide to amplifiers for beginner and advanced guitarists alike. Learn everything you need to know in order to buy a great amplifier.">
 
     <!-- Bootstrap core CSS -->
     <link href="/stylesheets/bootstrap.min.css" rel="stylesheet">
@@ -42,15 +43,6 @@
     </div>
 
     <div class="container-fluid">
-      <!--<div class="row">-->
-        <!--<div class="col-xs-6 col-sm-2 sidebar hidden-sm hidden-xs">
-          <ul class="nav nav-sidebar">
-            <li class="text-center"><a href="#overview">Overview</a></li>
-            <li class="text-center"><a href="#guide">Guide</a></li>
-            <li class="text-center"><a href="#recommendations">Recommendations</a></li>
-            <li class="text-center"><a href="#future">Future</a></li>
-          </ul>
-        </div>-->
         <div class="main">
           <h1 class="page-header">AMPS</h1>
 
@@ -86,6 +78,8 @@
           <div class="section">
             <h3>Combo - Practice</h3>
               <div class="row well text-center">
+                <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B00BTGMI5O&asins=B00BTGMI5O&linkId=QVFULFGWBPKJ72HY&show_border=true&link_opens_in_new_window=true">
+</iframe>
                 <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B002GYWBIM&asins=B002GYWBIM&linkId=&show_border=true&link_opens_in_new_window=true">
 </iframe>
                 <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0043UKJ4K&asins=B0043UKJ4K&linkId=&show_border=true&link_opens_in_new_window=true">
@@ -111,17 +105,36 @@
 </iframe>
                 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002E3GLY&asins=B0002E3GLY&linkId=YQKYJB7UHM3R4G4E&show_border=true&link_opens_in_new_window=true">
 </iframe>
-
               </div>
           </div>
           <div class="section">
             <h3>Head</h3>
               <div class="row well text-center">
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B006UOSUDE&asins=B006UOSUDE&linkId=Q4BNFHVLZ3DTTBTA&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B008BTTQI4&asins=B008BTTQI4&linkId=6YS4NWP75YUV2S7E&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B005IZK5O8&asins=B005IZK5O8&linkId=UDHUHGRJOKBDFPOF&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B003H95LWI&asins=B003H95LWI&linkId=CVV7K3BM6PPD5FSB&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B00B8X81AE&asins=B00B8X81AE&linkId=3BCWX65V2TRU2EJT&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B001R2H32I&asins=B001R2H32I&linkId=ESWXL5JERGG6DZN5&show_border=true&link_opens_in_new_window=true">
+</iframe>
               </div>
           </div>
           <div class="section">
             <h3>Cabinet</h3>
               <div class="row well text-center">
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B006UOSUW0&asins=B006UOSUW0&linkId=DAKLAJUVMXKHELZY&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002GJURQ&asins=B0002GJURQ&linkId=ZRLU6THZOQ24BRDB&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:150px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B004080RXS&asins=B004080RXS&linkId=VN2Z276P2B5F3FSZ&show_border=true&link_opens_in_new_window=true">
+</iframe>
+                <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=guitstar-20&marketplace=amazon&region=US&placement=B0002KZQKM&asins=B0002KZQKM&linkId=M2DDR37BFG4JNGWX&show_border=true&link_opens_in_new_window=true">
+</iframe>
               </div>
           </div>
         </div>

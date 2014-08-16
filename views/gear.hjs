@@ -8,7 +8,8 @@
     <meta name="author" content="">
     <link rel="icon" href="../node_modules/static-favicon/favicon.ico">
 
-    <title>Guitar Starter - Gear</title>
+    <title>Guitar Starter - Guitar gear that beginners need</title>
+    <meta name="description" content="A beginners guide to the essential gear that every guitarist needs. This includes gear for practicing or jamming at home and gear for performing live in front of an audience.">
 
     <!-- Bootstrap core CSS -->
     <link href="/stylesheets/bootstrap.min.css" rel="stylesheet">

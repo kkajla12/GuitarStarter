@@ -8,7 +8,8 @@
     <meta name="author" content="">
     <link rel="icon" href="../node_modules/static-favicon/favicon.ico">
 
-    <title>Guitar Starter - Home</title>
+    <title>Guitar Starter - The ultimate website guide for beginner guitarists</title>
+    <meta name="description" content="The ultimate website for beginner to advanced guitarists alike. Learn the important details of guitars, amplifiers, effects, and other gear which are integral to buying the right equipment which performs the way you want it to. Get guidance for buying your first guitar, amplifier, effects, and essential guitar gear so you can get on the road to improving and enjoying your guitar playing.">
 
     <!-- Bootstrap core CSS -->
     <link href="/stylesheets/bootstrap.min.css" rel="stylesheet">
